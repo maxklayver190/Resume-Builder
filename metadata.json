@@ -1,0 +1,5 @@
+{
+  "name": "Resume Builder",
+  "description": "Um construtor de currículos moderno, arrasta e solta, com exportação para PDF.",
+  "requestFramePermissions": []
+}
